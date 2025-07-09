@@ -85,16 +85,3 @@ A multi-line `textarea` where users can type extra info, notes, or requests.
 No JavaScript, backend, or frameworks — just pure HTML & CSS!
 
 ---
-
-## 🎯 How to Use
-
-1. **Clone or download** the project:
-```bash
-git clone https://github.com/yourusername/student-information-form.git
-cd student-information-form
-
-2.Open in browser:
-Double click index.html to get started.
-To see the result after submission, open SUBMISSION.html.
-
-
